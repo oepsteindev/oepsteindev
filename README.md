@@ -1,4 +1,4 @@
-### Hey! Im Oren, nice to meet you! [website] 👋
+### Hey! Im Oren, nice to meet you! [www.oren-epstein.com] 👋
 
 ## I'm a Web Engineer and Problem Solver!
 - 🌱 I’m currently learning everything under the sun!
@@ -29,5 +29,5 @@
 <br />
 
 
-[website]: https://oren-epstein.com
+[www.oren-epstein.com]: https://oren-epstein.com
 [linkedin]: https://www.linkedin.com/in/orenbarak/
